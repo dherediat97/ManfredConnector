@@ -1,0 +1,794 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Heredia Tartajo",
+      "title": "Desarrollador de aplicaciones móviles",
+      "description": "Un desarrollador con 6 años de experiencia en aplicaciones nativas e híbridas(casi el 80% de mi carrera profesional es con Android) y que ha tenido siempre claro mi sector laboral que es el de la programación.\n\nSiempre he tenido las ideas claras y he intentado mantener la calma sobre mis desarrollos, siguiendo la idea de que el producto sea desarrollado con cariño y consistente, mas que sea un producto desarrollado con prisas y con fugas.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/27/f3f3745e-0541-4ed4-bfa5-434b6fb7d28f_foto_carnet.jpg",
+        "alt": "foto_carnet.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ7wpe-SbfbA0Rw1aEEOjS8U0)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Córdoba"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/dherediat"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/dherediat97"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Accenture España"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Flutter",
+            "startDate": "2024-04-01",
+            "finishDate": "2024-07-31",
+            "challenges": [
+              {
+                "description": "Proyecto para un cliente público desarrollado en Accenture bajo una subcontratación de Esail It"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Dagger Hilt",
+                "type": "technology"
+              },
+              {
+                "name": "Dagger2",
+                "type": "technology"
+              },
+              {
+                "name": "Dart",
+                "type": "technology"
+              },
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Internet of Things SL"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de Android",
+            "startDate": "2019-11-01",
+            "finishDate": "2023-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Modelo–vista–modelo de vista (MVVM) · Android · Java · Actitud positiva · Git · Python · Bases de datos · Aplicaciones móviles · Aplicaciones web · Retrofit · Inglés · HTML · Control de versiones · SQL · Android Jetpack · Android SDK · JavaScript · Desarrollo de Android · Desarrollo de aplicaciones móviles · Kotlin · Flutter · Geolocalización"
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Arduino",
+                "type": "technology"
+              },
+              {
+                "name": "BlueTooth",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JetPack",
+                "type": "technology"
+              },
+              {
+                "name": "Jetpack Compose",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin Multiplatform Mobile",
+                "type": "technology"
+              },
+              {
+                "name": "MQTT",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Raspberry",
+                "type": "technology"
+              },
+              {
+                "name": "Swing",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "What You Look For (WUL4)"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de aplicaciones",
+            "startDate": "2017-07-01",
+            "finishDate": "2019-09-30",
+            "challenges": [
+              {
+                "description": "Skills: Android · Java · Actitud positiva · Git · Desarrollo de iOS · Python · Bases de datos · Visual Basic · Aplicaciones móviles · Aplicaciones web · Retrofit · Desarrollo front end · Windows · HTML · Node.js · Control de versiones · SQL · iOS · MySQL · Android SDK · JavaScript · Desarrollo de Android · Swift (lenguaje de programación) · Desarrollo de aplicaciones móviles · Geolocalización"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "What You Look For (WUL4)"
+        },
+        "roles": [
+          {
+            "name": "Becario",
+            "startDate": "2017-04-01",
+            "finishDate": "2017-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Android · Java · HTML5 · Actitud positiva · Git · Bases de datos · Aplicaciones móviles · Aplicaciones web · Retrofit · Desarrollo front end · HTML · Control de versiones · SQL · Android SDK · JavaScript · Desarrollo de Android · Desarrollo de aplicaciones móviles · Hojas de estilos en cascada (CSS)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ofisur S.L."
+        },
+        "roles": [
+          {
+            "name": "Becario",
+            "startDate": "2015-04-01",
+            "finishDate": "2015-07-31",
+            "challenges": [
+              {
+                "description": "Skills: HTML5 · AngularJS · Actitud positiva · Aplicaciones web · HTML · Hojas de estilos en cascada (CSS)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Film Flu",
+          "URL": "https://github.com/dherediat97/FilmFlu",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/04/22/80df7569-c671-4039-a74e-ea9c119d9737_logo.png",
+            "alt": "logo.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-07-01",
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "CMake",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Dart",
+                "type": "technology"
+              },
+              {
+                "name": "Flutter",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "Google Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Rive",
+                "type": "technology"
+              },
+              {
+                "name": "Riverpod",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android SDK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Dart",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JetPack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LinQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Retrofit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Curso completo programación C# en .Net y muchísimo más",
+        "startDate": "2024-02-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-cc949cd6-ac57-4ea5-b7d0-4e32c2db2068/"
+        },
+        "finishDate": "2024-03-01",
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "SQLServer",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Medio, Sistemas microinformáticos y redes",
+        "startDate": "2013-01-01",
+        "institution": {
+          "name": "I.E.S Francisco de los Ríos"
+        },
+        "finishDate": "2015-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado Superior, Desarrollo de aplicaciones multiplataforma",
+        "startDate": "2015-01-01",
+        "institution": {
+          "name": "I.E.S Francisco de los Ríos"
+        },
+        "finishDate": "2017-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/dherediat",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/dherediat97",
+          "type": "github"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".NET MAUI",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "Angular Universal",
+          "type": "technology"
+        },
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Dagger Hilt",
+          "type": "technology"
+        },
+        {
+          "name": "Dagger2",
+          "type": "technology"
+        },
+        {
+          "name": "Dart",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
+          "name": "Ionic",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "JetPack",
+          "type": "technology"
+        },
+        {
+          "name": "Koin",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "MQTT",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "Android",
+        "type": "technology"
+      },
+      {
+        "name": "Flutter",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal sería trabajar en una consultora la cual tenga algunas o muchas apps en la Play Store o App Store y a parte de dar soporte a esas apps, poder incluir nuevas apps hechas por mí mismo.\nEso sería perfecto.",
+    "projects": [
+      {
+        "name": "Film Flu"
+      }
+    ]
+  }
+}
