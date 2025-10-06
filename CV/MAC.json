@@ -604,6 +604,15 @@
           "name": "I.E.S Francisco de los Ríos"
         },
         "finishDate": "2017-01-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Hacker Ético",
+        "startDate": "2025-10-01",
+        "institution": {
+          "name": "Cisco"
+        }
       }
     ],
     "softSkills": [
