@@ -559,6 +559,15 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": " Ciberseguridad Defensiva",
+        "startDate": "2025-07-01",
+        "institution": {
+          "name": "The Bridge"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": " Inteligencia artificial y Marketing digital",
         "startDate": "2025-08-01",
         "institution": {
