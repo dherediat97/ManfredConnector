@@ -621,7 +621,8 @@
         "name": "Junior Cybersecurity Analist Path",
         "startDate": "2025-09-01",
         "institution": {
-          "name": "Cisco"
+          "name": "Cisco",
+          "description": "Conocimientos avanzados de redes informáticas.\nConocimientos sobre la gestión de amenazas cibernéticas.\nConocimiento sobre hardeding y seguridad en dispositivos informáticos.\nConocimientos sobre las políticas de seguridad como su aplicación.\nConocimientos sobre la triada CIA(confidencialidad, integridad, availability/disponibilidad)\nConocimientos sobre análisis forense de capturas de red usando Wireshark.\nConocimientos sobre el IOS SDK(CLI de Routers/Switchs Cisco)."
         }
       }
     ],
