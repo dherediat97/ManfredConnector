@@ -632,7 +632,7 @@
         "startDate": "2025-10-01",
         "institution": {
           "name": "Cisco",
-          "description": "- Conocimientos sobre la metodología de hacking ético y pentesing.\n- Crear documentos y reportes de ataques de penetración(pentesting).\n- Conocimientos sobre la recolección de toda información de los ataques realizados.\n- Conocimientos sobre los ataques de ingenería social.\n- Conocimientos sobre la explotación de vulnerabilidades en redes WIFI y cableadas.\n- Conocimientos sobre la explotación de vulnerabilidades basados en aplicaciones.\n- Conocimientos sobre la explotación de vulnerabilidades en la nube, IoT y teléfonos móviles.\n- Conocimientos sobre la limpieza de credenciales, archivos temporales después de hacer un pentesting."
+          "description": "- Conocimientos sobre la metodología de hacking ético y pentesing.\n- Crear documentos y reportes de ataques de penetración(pentesting).\n- Conocimientos sobre la recolección de toda información de los ataques realizados.\n- Conocimientos sobre los ataques de ingenería social.\n- Conocimientos sobre la explotación de vulnerabilidades en redes WIFI y cableadas.\n- Conocimientos sobre la explotación de vulnerabilidades basados en aplicaciones.\n- Conocimientos sobre la explotación de vulnerabilidades en la nube, IoT y teléfonos móviles.\n- Conocimientos sobre la limpieza de credenciales, archivos temporales después de hacer un pentesting.\n- Uso de Scapy para la manipulación y creación de paquetes maliciosos."
         }
       },
       {
