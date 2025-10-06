@@ -558,6 +558,15 @@
     "studies": [
       {
         "studyType": "certification",
+        "degreeAchieved": false,
+        "name": " Inteligencia artificial y Marketing digital",
+        "startDate": "2025-08-01",
+        "institution": {
+          "name": "Andalucía Emplea +"
+        }
+      },
+      {
+        "studyType": "certification",
         "degreeAchieved": true,
         "name": "Curso completo programación C# en .Net y muchísimo más",
         "startDate": "2024-02-01",
