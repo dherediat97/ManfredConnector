@@ -764,15 +764,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": ".NET",
-        "type": "technology"
-      },
-      {
         "name": "Android",
         "type": "technology"
       },
       {
         "name": "Flutter",
+        "type": "technology"
+      },
+      {
+        "name": "JetPack",
         "type": "technology"
       },
       {
