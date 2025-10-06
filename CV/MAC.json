@@ -764,11 +764,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Android",
+        "name": "Flutter",
         "type": "technology"
       },
       {
-        "name": "Flutter",
+        "name": "Java",
         "type": "technology"
       },
       {
@@ -776,7 +776,7 @@
         "type": "technology"
       },
       {
-        "name": "NodeJS",
+        "name": "Kotlin",
         "type": "technology"
       },
       {
