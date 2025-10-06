@@ -562,7 +562,8 @@
         "name": " Ciberseguridad Defensiva",
         "startDate": "2025-07-01",
         "institution": {
-          "name": "The Bridge"
+          "name": "The Bridge",
+          "description": "- Conocimientos sobre la estructura y gestión de un Centro de Operaciones de Seguridad (SOC).\n- Conocimientos sobre los procesos de detección, monitorización y respuesta a incidentes.\n- Protección contra ciberataques y ciberescalabilidad, y utilicé todas las herramientas para bloquearlos.\n- Análisis forense de ciberseguridad con programas como Wirershark, Volatility CLI y Autopsy."
         }
       },
       {
