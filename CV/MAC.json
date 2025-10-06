@@ -622,7 +622,7 @@
         "startDate": "2025-09-01",
         "institution": {
           "name": "Cisco",
-          "description": "Conocimientos avanzados de redes informáticas.\nConocimientos sobre la gestión de amenazas cibernéticas.\nConocimiento sobre hardeding y seguridad en dispositivos informáticos.\nConocimientos sobre las políticas de seguridad como su aplicación.\nConocimientos sobre la triada CIA(confidencialidad, integridad, availability/disponibilidad)\nConocimientos sobre análisis forense de capturas de red usando Wireshark.\nConocimientos sobre el IOS SDK(CLI de Routers/Switchs Cisco)."
+          "description": "- Conocimientos avanzados de redes informáticas.\n- Conocimientos sobre la gestión de amenazas cibernéticas.\n- Conocimiento sobre hardeding y seguridad en dispositivos informáticos.\n- Conocimientos sobre las políticas de seguridad como su aplicación.\n- Conocimientos sobre la triada CIA(confidencialidad, integridad, availability/disponibilidad)\n- Conocimientos sobre análisis forense de capturas de red usando Wireshark.\n- Conocimientos sobre el IOS SDK(CLI de Routers/Switchs Cisco)."
         }
       }
     ],
