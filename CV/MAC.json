@@ -611,7 +611,8 @@
         "name": "Hacker Ético",
         "startDate": "2025-10-01",
         "institution": {
-          "name": "Cisco"
+          "name": "Cisco",
+          "description": "Conocimientos sobre la metodología de hacking ético y pentesing.\nCrear documentos y reportes de ataques de penetración(pentesting).\nConocimientos sobre la recolección de toda información de los ataques realizados.\nConocimientos sobre los ataques de ingenería social.\nConocimientos sobre la explotación de vulnerabilidades en redes WIFI y cableadas.\nConocimientos sobre la explotación de vulnerabilidades basados en aplicaciones.\nConocimientos sobre la explotación de vulnerabilidades en la nube, IoT y teléfonos móviles.\nConocimientos sobre la limpieza de credenciales, archivos temporales después de hacer un pentesting."
         }
       },
       {
