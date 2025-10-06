@@ -613,6 +613,15 @@
         "institution": {
           "name": "Cisco"
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Junior Cybersecurity Analist Path",
+        "startDate": "2025-09-01",
+        "institution": {
+          "name": "Cisco"
+        }
       }
     ],
     "softSkills": [
